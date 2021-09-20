@@ -1,4 +1,4 @@
-# This is a simple looking tracker built using a public API.  
+# This is a nice looking tracker built using a public API.  
 ## It showcases global cases and deaths, with the option to pick specific country stats too.  
 
 # What I used
